@@ -60,7 +60,6 @@ This repository is created for learning and practicing:
 
 - All scripts are written for educational purposes.  
 - Ensure Python 3.x is installed before running the scripts.  
-- Some scripts may require input from the user.
 
 ---
 
